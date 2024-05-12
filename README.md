@@ -1,6 +1,6 @@
 not much to see here, i've been busy bug huntin! 
 
-check out my [blog](https://medium.com/@z3r0syf3r)!
+check out my [blog](https://medium.com/@z3r0syf3r).
 
 bug bounty and competitive profiles: [Integriti](https://app.intigriti.com/researcher/profile/z3r0syf3r), [BugCrowd](https://bugcrowd.com/z3r0syf3r), [HackerOne](https://hackerone.com/z3r0syf3r), [TryHackMe](https://tryhackme.com/p/z3r0syf3r), [HackTheBox](https://ctf.hackthebox.com/user/profile/353219) 
 
