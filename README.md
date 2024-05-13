@@ -1,4 +1,4 @@
-not much to see here, been busy bug hunting! 
+busy bug hunting! 
 
 check out my [blog](https://medium.com/@z3r0syf3r).
 
