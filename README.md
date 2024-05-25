@@ -1,4 +1,4 @@
-busy bug hunting! 
+happy bug hunting! 
 
 check out my [blog](https://medium.com/@z3r0syf3r).
 
