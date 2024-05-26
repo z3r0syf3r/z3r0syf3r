@@ -6,3 +6,6 @@ bug bounty and ctf profiles: [Integriti](https://app.intigriti.com/researcher/pr
 
 here are some security-centered resources that i've posted for myself, but i figure you may also find them useful... 
 [InfoSec Resources](https://github.com/dante0x5f/info_sec_resources)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3r0syf3r&layout=compact&theme=moltack)
