@@ -8,4 +8,4 @@ here are some security-centered resources that i've posted for myself, but i fig
 [InfoSec Resources](https://github.com/dante0x5f/info_sec_resources)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3r0syf3r&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3r0syf3r&layout=compact&theme=darklangs_count=4)
