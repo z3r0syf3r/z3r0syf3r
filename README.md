@@ -15,4 +15,3 @@ here are some security-centered resources that i've posted for myself, but i fig
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3r0syf3r&layout=compact&theme=dark&langs_count=4)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&rank_icon=github&theme=dark&hide_title=true&hide=issues)
