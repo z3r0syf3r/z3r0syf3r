@@ -13,5 +13,6 @@ ctf: [CTFtime](https://ctftime.org/user/192457), [THM](https://tryhackme.com/p/z
 here are some security-centered resources that i've posted for myself, but i figure you may also find them useful... 
 [InfoSec Resources](https://github.com/dante0x5f/info_sec_resources)
 
-
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z3r0syf3r&layout=compact&theme=dark&langs_count=4)
+--->
